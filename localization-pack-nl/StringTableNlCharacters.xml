@@ -33,7 +33,7 @@
             
             <!-- Perks staff -->
             <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS</LocID>               	<Text>Goede baas</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS_DESCRIPTION</LocID>      <Text>Verhoogd elke morgen de tevredenheid van personeel onder zijn leiding.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_GOOD_BOSS_DESCRIPTION</LocID>      <Text>Verhoogd elke morgen de tevredenheid van personeel onder zijn/haar leiding.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER</LocID>               <Text>Leert snel</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_FAST_LEARNER_DESCRIPTION</LocID>   <Text>Kan nieuwe vaardigheden veel sneller leren.</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_SPARTAN</LocID>              		<Text>Spartaans</Text>  </GameDBLocalizedString>
@@ -47,7 +47,7 @@
            	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER</LocID>               <Text>Leert langzaam</Text>  </GameDBLocalizedString>
            	<GameDBLocalizedString>      <LocID>PERK_SLOW_LEARNER_DESCRIPTION</LocID>   <Text>Vaardigheden leren gaat veel trager.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE</LocID>               <Text>Lange reistijd</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE_DESCRIPTION</LocID>   <Text>Woont ver weg. Komt regelmatig te laat.</Text>  </GameDBLocalizedString>
+                            <GameDBLocalizedString>      <LocID>PERK_LONG_COMMUTE_DESCRIPTION</LocID>   <Text>Woont ver weg. Komt regelmatig te laat.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM</LocID>                 <Text>Alcoholverslaafde</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_ALCOHOLISM_DESCRIPTION</LocID>     <Text>Komt regelmatig te laat en met een kater.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM</LocID>            <Text>Snelle stofwisseling</Text>  </GameDBLocalizedString>
@@ -324,7 +324,7 @@
             <GameDBLocalizedString>      <LocID>NURSE_STATE_Idle</LocID>                            <Text>Nietsdoend</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedure</LocID>               <Text>Nietsdoend</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_FinishedProcedureWaitWithPatient</LocID><Text>Wacht met patiënt</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingToWorkplace</LocID>                <Text>Gaat naar werplaats</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingToWorkplace</LocID>                <Text>Gaat naar werkplaats</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringFood</LocID>                  <Text>Bezorgt eten</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_PatientCheckUp</LocID>                  <Text>Controleert patiënten</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_DeliveringMedicine</LocID>              <Text>Bezorgt medicijnen</Text>  </GameDBLocalizedString>
