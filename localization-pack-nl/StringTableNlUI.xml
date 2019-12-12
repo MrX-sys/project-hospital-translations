@@ -303,7 +303,7 @@
             <GameDBLocalizedString>      <LocID>REWARD</LocID>                          <Text>Beloning</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_ROOM</LocID>                     <Text>{1}</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT</LocID>               <Text>{1}</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT_HOSPITALIZATION</LocID> <Text>Zienhuisopnames om {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>UNLOCK_DEPARTMENT_HOSPITALIZATION</LocID> <Text>Zienhuisopnames op {1}</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MONEY_GRANT</LocID>                     <Text>van {1} overheidssubsidie</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MORE_MOBILE_PATIENTS</LocID>            <Text>{1} meer ziekenhuispatiënten per dag</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>MORE_IMMOBILE_PATIENTS</LocID>          <Text>{1} meer patiënten die per ambulance komen</Text>  </GameDBLocalizedString>
