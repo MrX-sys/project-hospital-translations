@@ -215,7 +215,7 @@
             <GameDBLocalizedString>      <LocID>BUTTON_SWITCH_MESSAGE_COLOR</LocID>              <Text>Berichtkleur wijzigen</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_LOCKED</LocID>                    <Text>Deze gebeurtenisknop wordt ontgrendeld nadat je een ambulance hebt gekocht en minstens een van de volgende afdelingen functioneel hebt gemaakt (waaronder een nachtkliniek): {1}</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_LOCKED_INSURANCE</LocID>          <Text>De gebeurtenisknop wordt ontgrendeld nadat je het tweede doel voor de verzekeringsmaatschappij Quick Snap Care hebt voltooid.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_LOCKED_INSURANCE</LocID>          <Text>De gebeurtenisknop wordt ontgrendeld nadat je het tweede doel voor de verzekeringsmaatschappij NL Zorgt hebt voltooid.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TOOLTIP_HOSPITAL_INSURANCE_LOCKED</LocID>        <Text>Vergrendeld of het maximumaantal gecontracteerde verzekeringsmaatschappijen is bereikt (3/3).</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>TOOLTIP_EVENTS_MANDATORY</LocID>                 <Text> (verplicht)</Text>  </GameDBLocalizedString>
